@@ -2,7 +2,7 @@
 
 Progetto di esempio REST in javascript.
 
-## Istruzioni
+## Istruzioni per il creatore del repository
 
 - Scaricare i sorgenti di questo repository dal seguente link:
 
@@ -13,6 +13,13 @@ https://github.com/frhack/td/archive/refs/heads/main.zip
 - editare il file "database.js" per modificare i parametri della connessione:
   - l'IP del server
   - il nome dello schema
+- committare le modifiche
+- syncronizzare con il repository remoto
+
+## Istruzioni per ogni membro del gruppo
+
+- aggiungere un endpoint (cartella endpoints) per ogni tabella del DB, copiando l'endpoint task rinominandolo con ilnome della tabella e modificandolo opportunamente 
+
 
 - da VSC, in  terminale sul proprio repository eseguire:
 
