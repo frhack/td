@@ -18,9 +18,6 @@ https://github.com/frhack/td/archive/refs/heads/main.zip
 
 ## Istruzioni per ogni membro del gruppo
 
-- aggiungere un endpoint (cartella endpoints) per ogni tabella del DB, copiando l'endpoint task rinominandolo con ilnome della tabella e modificandolo opportunamente 
-
-
 - da VSC, in  terminale sul proprio repository eseguire:
 
 ```shell
@@ -30,6 +27,11 @@ npm install
 ```shell
 npm run start
 ```
+
+
+- aggiungere un endpoint (cartella endpoints) per una tabella del DB, copiando l'endpoint task rinominandolo con il nome della tabella e modificandolo opportunamente 
+
+
 
 
 - testare una chiamata API con l'estensione Thunder Client, o da browser
